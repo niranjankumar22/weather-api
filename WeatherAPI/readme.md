@@ -1,3 +1,3 @@
 Website link
 
-https://krishnakiriti04.github.io/Guvi-Tasks/WeatherAPI/
+https://github.com/niranjankumar22/weather-api.git
